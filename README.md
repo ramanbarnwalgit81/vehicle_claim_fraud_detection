@@ -250,12 +250,6 @@ jupyter
 
 ---
 
-## 📄 License
-
-This project is for academic and educational purposes — Texas Tech University, MS Data Science.
-
----
-
 <div align="center">
 
 *Built with scikit-learn · XGBoost · LightGBM · TensorFlow/Keras*
